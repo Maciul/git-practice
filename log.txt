@@ -1,0 +1,5 @@
+commit 52d1c9055f421b5d910c564ccee42b52b10b48a1
+Author: Pawel <Pawel.Maciulewski@gmail.com>
+Date:   Tue Mar 22 13:59:04 2016 -0600
+
+    I am adding files to git!
